@@ -1,6 +1,6 @@
 /*
  * File: 6-size.c
- * Auth: Chinedu Onuwa 
+ * Auth: Chinedu Onuwa
  */
 
 #include <stdio.h>
