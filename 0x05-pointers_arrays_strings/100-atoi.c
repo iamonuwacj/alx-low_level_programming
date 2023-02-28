@@ -1,6 +1,6 @@
 /*
  * File: 100-atoi.c
- * Auth: Onuwa Chinedu 
+ * Auth: Onuwa Chinedu
  */
 
 #include "main.h"
