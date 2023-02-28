@@ -1,6 +1,6 @@
 /*
  * File: 1-swap.c
- * Auth: Onuwa Chinedu 
+ * Auth: Onuwa Chinedu
  */
 
 #include "main.h"
