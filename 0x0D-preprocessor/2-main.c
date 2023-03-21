@@ -1,12 +1,19 @@
-#include <stdlib.h>
+/*
+ * File: 2-main.c
+ * Auth: Onuwa Chinedu
+ */
+
 #include <stdio.h>
-#include "main.h"
+
 /**
-* main - Entry Point
-* Return: 0
-*/
+ * main - Prints the name of the file of the program
+ *        was compiled from, followed by a new line.
+ *
+ * Return: Always 0.
+ */
 int main(void)
 {
 	printf("%s\n", __FILE__);
+
 	return (0);
 }
