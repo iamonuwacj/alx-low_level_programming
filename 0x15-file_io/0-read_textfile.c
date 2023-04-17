@@ -3,7 +3,7 @@
  * Auth: Onuwa Chinedu
  */
 
-#include "holberton.h"
+#include "main.h"
 #include <stdlib.h>
 
 /**
